@@ -1,0 +1,23 @@
+{
+  "name": "pubg_r",
+  "version": "1.0.0",
+  "description": "This form is used to register for the PUBG tournament.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsshir60/PUBG_R.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rsshir60/PUBG_R/issues"
+  },
+  "homepage": "https://github.com/rsshir60/PUBG_R#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
